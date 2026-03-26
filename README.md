@@ -8,18 +8,16 @@
 - <b> Beach Volleyball Game Created with Unity (C#) </b>
   - [2-Players Volleyball Game](https://youtu.be/YN8V5z-rtzk) <b><i>(Project for CS50x)</b></i>
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://link)
+  - [JWipe (Disk Wiping Utility)](https://link)
 
-<h2> Certifications </h2>
+- <b>C# (.NET Desktop Applications)</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://link)
+
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://link)
+
+<h2> COMPUTER SCIENCE CERTIFICATIONS </h2>
 
 - University courses of Computer Science and Web Design of the Univeristy of Turin
 - Harvard’s CS50x course (with edX)
