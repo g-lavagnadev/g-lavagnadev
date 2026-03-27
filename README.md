@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Cooking Website Prototype</b>
-  - Cooking Website ([[https://github.com/g-lavagnadev/My-Portfolio])
+  - Cooking Website (https://g-lavagnadev.github.io/Recipes-Website/)
 
 - <b> Beach Volleyball Game Created with Unity (C#) </b>
   - [2-Players Volleyball Game](https://youtu.be/YN8V5z-rtzk) <b><i>(Video)</b></i>
