@@ -6,7 +6,7 @@
   - Cooking Website ([[https://github.com/g-lavagnadev/My-Portfolio])
 
 - <b> Beach Volleyball Game Created with Unity (C#) </b>
-  - [2-Players Volleyball Game](https://youtu.be/YN8V5z-rtzk) <b><i>(Project for CS50x)</b></i>
+  - [2-Players Volleyball Game](https://youtu.be/YN8V5z-rtzk) <b><i>(Video)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://link)
   - [JWipe (Disk Wiping Utility)](https://link)
