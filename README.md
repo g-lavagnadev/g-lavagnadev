@@ -11,15 +11,12 @@
   - [2-Players Volleyball Game](https://youtu.be/YN8V5z-rtzk) <b><i>(Video)</b></i>
   - [Game scripts](https://github.com/g-lavagnadev/Unity-Scripts-C-.git) <i>Just to show some of the scripts</i>
   
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://link)
-  - [JWipe (Disk Wiping Utility)](https://link)
+- <b> Applications </b>
+  - [Python](https://link)
+  - [C](https://link)
 
-- <b>C# (.NET Desktop Applications)</b>
+- <b> React Native App: World Recipes: </b>
   - [Ransomware Proof of Concept (Encrypter)](https://link)
-
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://link)
 
 <h2> COMPUTER SCIENCE CERTIFICATIONS </h2>
 
