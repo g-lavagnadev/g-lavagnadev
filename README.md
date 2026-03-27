@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Cooking Website Prototype</b>
-  - [Cooking Website](https://g-lavagnadev.github.io/Recipes-Website/)
+- <b> Just some examples of web pages </b>
+  - [Cooking Website](https://g-lavagnadev.github.io/Recipes-Website/) <i> A bit messy but it serves its purpose </i>
+  - [Glass Portfolio Website](www.google.it)
 
 - <b> Beach Volleyball Game Created with Unity (C#) </b>
   - [2-Players Volleyball Game](https://youtu.be/YN8V5z-rtzk) <b><i>(Video)</b></i>
