@@ -18,7 +18,7 @@
 - <b> React Native App: World Recipes: </b>
   - [Ransomware Proof of Concept (Encrypter)](https://link)
 
-<h2> COMPUTER SCIENCE CERTIFICATIONS </h2>
+<h2> COMPUTER SCIENCE CERTIFICATES </h2>
 
 - University courses of Computer Science and Web Design of the Univeristy of Turin
 - Harvard’s CS50x course (with edX)
