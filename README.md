@@ -16,7 +16,7 @@
   - [C](https://link) ⚠️
 
 - <b> React Native App: World Recipes: </b>
-  - [World recipes](https://link) ⚠️
+  - [World recipes](https://youtube.com/shorts/BJ9TUpR_Jks?feature=share) <i> Old version </i>
 
 <h2> COMPUTER SCIENCE CERTIFICATES </h2>
 
