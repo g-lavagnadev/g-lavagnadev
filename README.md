@@ -1,7 +1,7 @@
 <h1>Hi, I'm Gabriele! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="[https://www.linkedin.com/in/joshmadakor/](https://www.linkedin.com/in/gabriele-lavagna/)"> Developer and Linguist </a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-<h2>⚠️ STILL UNDER CONSTRUCTION - Unfortunately I can't share some of the most advanced pieces of code in a public repository ⚠️</h2>
+<h2>⚠️ STILL UNDER CONSTRUCTION - Unfortunately I can't share some of the most advanced pieces of code in a public repository. But you can contact me through the links at the end ⚠️</h2>
 
 - <b> Just some examples of web pages </b>
   - [Cooking Website](https://g-lavagnadev.github.io/Recipes-Website/) <i> A bit messy but it serves its purpose </i>
