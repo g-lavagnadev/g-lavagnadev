@@ -12,12 +12,12 @@
   - [Game scripts](https://github.com/g-lavagnadev/Unity-Scripts-C-.git) <i>Just to show some scripts examples</i>
   
 - <b> Applications </b>
-  - [Python](https://link) ⚠️
-  - [C](https://link) ⚠️
+  - [Python] ⚠️
+  - [C] ⚠️
 
 - <b> React Native App: World Recipes: </b>
   - [Video](https://youtube.com/shorts/BJ9TUpR_Jks?feature=share) <i> Old version </i>
-  - [Repository] ⚠️
+  - [Repository]⚠️
 
 <h2> COMPUTER SCIENCE CERTIFICATES </h2>
 
