@@ -5,15 +5,15 @@
 
 - <b> Just some examples of web pages </b>
   - [Cooking Website](https://g-lavagnadev.github.io/Recipes-Website/) <i> A bit messy but it serves its purpose </i>
-  - [Glass Portfolio Website](www.google.it) ⚠️
+  - [Glass Portfolio Website] ⚠️
 
 - <b> Beach Volleyball Game Created with Unity (C#) </b>
   - [2-Players Volleyball Game](https://youtu.be/YN8V5z-rtzk) <b><i>(Video)</b></i>
   - [Game scripts](https://github.com/g-lavagnadev/Unity-Scripts-C-.git) <i>Just to show some scripts examples</i>
   
-- <b> Applications </b>
+- <b> Examples of applications </b>
   - [Python] ⚠️
-  - [C] ⚠️
+  - [C](https://github.com/g-lavagnadev/Finished-projects)⚠️
 
 - <b> React Native App: World Recipes: </b>
   - [Video](https://youtube.com/shorts/BJ9TUpR_Jks?feature=share) <i> Old version </i>
