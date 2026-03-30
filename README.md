@@ -12,8 +12,8 @@
   - [Game scripts](https://github.com/g-lavagnadev/Unity-Scripts-C-.git) <i>Just to show some scripts examples</i>
   
 - <b> Examples of applications </b>
-  - [Python] ⚠️
-  - [C](https://github.com/g-lavagnadev/Finished-projects)⚠️
+  - [Python](https://github.com/g-lavagnadev/Finished-projects/blob/main/DNA%20test.py)⚠️ <i>It counts the number of different nucleotides sequences to match DNA samples</i>
+  - [C](https://github.com/g-lavagnadev/Finished-projects/blob/main/photo%20filters.c)⚠️ <i>Photo filter changer (black and white, sepia...)</i>
 
 - <b> React Native App: World Recipes: </b>
   - [Video](https://youtube.com/shorts/BJ9TUpR_Jks?feature=share) <i> Old version </i>
