@@ -17,7 +17,7 @@
 
 - <b> React Native App: World Recipes: </b>
   - [Video](https://youtube.com/shorts/BJ9TUpR_Jks?feature=share) <i> Old version </i>
-  - [Repository]⚠️
+  - [Repository](https://github.com/g-lavagnadev/RicetteDalMondo)
 
 <h2> COMPUTER SCIENCE CERTIFICATES </h2>
 
